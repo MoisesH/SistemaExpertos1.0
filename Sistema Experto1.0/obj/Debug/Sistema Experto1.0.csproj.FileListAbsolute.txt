@@ -1,0 +1,23 @@
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Sistema Experto1.0.exe.config
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Sistema Experto1.0.exe
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Sistema Experto1.0.pdb
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.csprojResolveAssemblyReference.cache
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema_Experto1._0.Properties.Resources.resources
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.csproj.GenerateResource.Cache
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.exe
+c:\users\moises\documents\visual studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.pdb
+C:\Users\moises\Documents\Visual Studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\SQLite.NET.dll
+C:\Users\moises\Documents\Visual Studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema_Experto1._0.Form1.resources
+C:\Users\moises\Documents\Visual Studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Json.dll
+C:\Users\moises\Documents\Visual Studio 2013\Projects\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Json.pdb
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Sistema Experto1.0.exe.config
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Sistema Experto1.0.exe
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Sistema Experto1.0.pdb
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Json.dll
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\bin\Debug\Json.pdb
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.csprojResolveAssemblyReference.cache
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema_Experto1._0.Form1.resources
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema_Experto1._0.Properties.Resources.resources
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.csproj.GenerateResource.Cache
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.exe
+C:\Users\MoisesHdez\Desktop\Sistema Experto1.0\Sistema Experto1.0\obj\Debug\Sistema Experto1.0.pdb
